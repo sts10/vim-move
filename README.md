@@ -16,6 +16,9 @@ See this short demo for a first impression:
 
 ![vim-move demo](http://i.imgur.com/RMv8KsJ.gif)
 
+## Whby the fork? 
+
+This plugin is a fork of [matze's vim-move](https://github.com/matze/vim-move). I forked it from [the commit](https://github.com/matze/vim-move/tree/3409db62b68bc77df9b317e0d636b1f7ab21b485) just before they added horizonal character movement, which I didn't like. **This plugin only supports vertical line movement**. 
 
 ## Installation
 
