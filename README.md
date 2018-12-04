@@ -19,15 +19,20 @@ See this short demo for a first impression:
 
 ## Installation
 
-vim-move is compatible with all major plugin managers. To install it using
-Vundle, add
+vim-move is compatible with all major plugin managers. For example, to install it using [vim-plug](https://github.com/junegunn/vim-plug), add
 
 ```vim
-Bundle 'matze/vim-move'
+Plug 'sts10/vim-move'
+``` 
+
+to your Vim config file (usually `.vimrc`) and then run `:PlugInstall`.
+
+
+To install it using [Vundle](https://github.com/VundleVim/Vundle.vim), add
+
+```vim
+Plugin 'sts10/vim-move'
 ```
-
-to your `.vimrc`.
-
 
 ## Customization
 
